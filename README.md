@@ -11,4 +11,4 @@
                         #escrever seu login
                         #escrever seu email
                         #escrever sua senha
-
+#python manage.py runserver
